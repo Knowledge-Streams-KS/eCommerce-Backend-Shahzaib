@@ -1,0 +1,13 @@
+{
+  "db": {
+    "database": "E-commerce",
+    "username": "postgres",
+    "password": "123456",
+    "logging": false,
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "jwt": {
+    "secret": "ae4fd4020f5c82ba22fb324bd2f297ed39253d72b46dcba1d4cb217f54e45f18f1bf91c8c5d9cd68"
+  }
+}
